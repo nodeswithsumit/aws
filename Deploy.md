@@ -42,7 +42,7 @@ cd temp
 ### 5. Download and Extract Web Application
 
 ```bash
-wget [https://www.free-css.com/assets/files/complex.zip](https://awsweb-demo.s3.amazonaws.com/awswebdemo.zip)https://awsweb-demo.s3.amazonaws.com/awswebdemo.zip
+wget [awswebdemo](https://awsweb-demo.s3.amazonaws.com/awswebdemo.zip)https://awsweb-demo.s3.amazonaws.com/awswebdemo.zip
 ```
 
 ```bash
