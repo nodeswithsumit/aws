@@ -4,5 +4,5 @@ Welcome, fabulous user, to my shiny GitHub repository where magic happens! 🎉 
 
 This Repository will be used to understand about <b>Deploying a Simple Web Application on EC2 Instance</b> You can refer the following pages for this project.
 
-* EC2 Creation : create ec2.md
-* S3 Bucket : create s3.md
+* EC2 Creation : [create ec2.md](https://github.com/sumit-kumar-shukla/aws/blob/main/create%20ec2.md)
+* S3 Bucket : [create s3.md](https://github.com/sumit-kumar-shukla/aws/blob/main/create%20s3.md)
