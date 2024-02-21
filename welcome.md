@@ -1,0 +1,1 @@
+Welcome to my GitHub repository for web deployment on EC2! I'm excited to share this project with you and showcase the process of deploying web applications on Amazon EC2. Feel free to explore the code, contribute, and learn along with me. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!"
