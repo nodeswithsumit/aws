@@ -69,9 +69,10 @@ mv * /var/www/html
 
 ### 7. Enable and Start HTTPD Service
 
-```bash systemctl enable httpd
-systemctl start httpd
+```bash 
 systemctl status httpd
+systemctl enable httpd
+systemctl start httpd
 ```
 
 * systemctl enable httpd: Enable the Apache HTTP Server service to start automatically on boot.
