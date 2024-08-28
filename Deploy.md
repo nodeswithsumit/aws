@@ -42,7 +42,7 @@ cd temp
 ### 5. Download and Extract Web Application
 
 ```bash
-wget [awswebdemo](([https://github.com/nodeswithsumit/aws/blob/main/awswebdemo.zip)])
+wget https://github.com/nodeswithsumit/aws/raw/main/awswebdemo.zip
 ```
 
 ```bash
